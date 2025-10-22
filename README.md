@@ -1,2 +1,2 @@
-# About-Me
-Process Executive(Analyst) | Aspiring Data Analyst | Excel | SQL | Power BI | Python | Open To New Opportunities
+# Process Executive(Analyst) | Aspiring Data Analyst | Excel | SQL | Power BI | Python | Open To New Opportunities
+## About-Me
