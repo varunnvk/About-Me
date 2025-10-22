@@ -34,4 +34,4 @@ Working as a Process Executive(Analyst) with 2 years of experience. Skilled in a
 
 # Skills: 
 - Microsoft Excel
--Generative AI
+- Generative AI
